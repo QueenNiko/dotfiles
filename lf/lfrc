@@ -1,0 +1,4 @@
+map + push :mkdir<space>
+cmd mkdir $mkdir $*
+map <enter> shell
+
