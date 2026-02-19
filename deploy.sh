@@ -1,5 +1,6 @@
 #!/bin/bash
-mv .zshrc ../
+mv .zshrc ../ 
+cd ~/
 mkdir -p .cache/zsh
 touch .cache/zsh/HISTORY
 mkdir .config 
