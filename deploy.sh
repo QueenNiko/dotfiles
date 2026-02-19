@@ -11,3 +11,6 @@ sudo pacman -S mako hyprland alacritty lf mako mutt waybar \
                transmission-cli udiskie rofi grim slurp \
                vim btop hyfetch \
                yt-dlp mpv \ 
+
+sudo chsh /usr/bin/zsh
+
