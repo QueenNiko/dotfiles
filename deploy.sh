@@ -2,7 +2,7 @@
 mkdir -p .cache/zsh
 touch .cache/zsh/HISTORY
 mkdir .config 
-cp -r alacritty hypr lf mako waybar .config/
+cp -r alacritty hypr lf mako waybar hyfetch.json .config/
 
 sudo pacman -S mako hyprland alacritty lf mako mutt waybar \ 
                firefox element-desktop swaybg swaylock \
