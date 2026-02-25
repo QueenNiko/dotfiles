@@ -7,7 +7,7 @@ mkdir .config
 cd -
 cp -r alacritty hypr lf mako waybar hyfetch.json ~/.config/
 
-sudo pacman -S mako hyprland alacritty lf mako mutt waybar                firefox element-desktop swaybg swaylock                 transmission-cli udiskie rofi grim slurp                 vim btop hyfetch                 yt-dlp mpv 
+sudo pacman -S pavucontrol mako hyprland alacritty lf mako mutt waybar                firefox element-desktop swaybg swaylock                 transmission-cli udiskie rofi grim slurp                 vim btop hyfetch                 yt-dlp mpv 
 
 
 
