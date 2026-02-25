@@ -12,5 +12,7 @@ sudo pacman -S mako hyprland alacritty lf mako mutt waybar                firefo
 
 
 
-sudo chsh /usr/bin/zsh
+sudo chsh $(whoami)
+
+mv niko.txt ~/
 
